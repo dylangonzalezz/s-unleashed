@@ -40,7 +40,28 @@ body, html {
 
 
 .test{
-	height: 500px;
-	background-image: url(../Img/Example1.jpg);
-	background-attachment: fixed;
+	
+	width: 50%;
+	float: left;
+	overflow: hidden;
+	
+}
+
+.test2{
+	height: ;
+}
+
+
+.test3{
+	overflow: hidden;
+}
+
+.img{
+	width: 70%;
+	height: 70%;
+}
+
+.kek{
+	height: 100%;
+	width: 100%;
 }
